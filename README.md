@@ -1,8 +1,8 @@
 # Java_data_structure_and_algorithms
-My implementation of common-used data structures and algorithms in Java. 
-Hope it would be helpful for me to practice Java programming. (And for doing leetcode questions!) 
+My implementation of common-used data structures and algorithms in Java.   
+Hope it would be helpful for me to practice Java programming. (And for doing leetcode questions!)   
 ***
-##Basic
+## Basic
 ***
 ~~Single linked list~~  
 Quick sort and merge sort  
@@ -19,7 +19,7 @@ Minimum spanning tree
 KMP  
 BM  
 
-##Advanced
+## Advanced
 ***
 Lasvegas quick sort - O(nlogn)  
 Radix sort  
