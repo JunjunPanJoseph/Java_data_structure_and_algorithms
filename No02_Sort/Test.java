@@ -5,7 +5,7 @@ import java.util.Random;
 public class Test {
     private static void testSorting(Sort sort){
         Random random = new Random();
-        for(int i = 0; i < 10; i++){
+        for(int i = 0; i < 1000; i++){
             int[] array1 = random.ints(i).toArray();
             int[] array2 = Arrays.copyOf(array1, i);
             Arrays.sort(array1);
@@ -15,7 +15,6 @@ public class Test {
                 System.out.println("Output: " + Arrays.toString(array2));
                 System.out.println("Expected: " + Arrays.toString(array1));
             }
-
         }
     }
     public static void main(String[] args) {

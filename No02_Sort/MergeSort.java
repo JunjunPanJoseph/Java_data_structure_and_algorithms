@@ -29,7 +29,7 @@ public class MergeSort implements Sort{
         }
         int beg, end;
         beg = 0;
-        int mergeSize = 16;
+        int mergeSize = 1;
         while (beg + mergeSize < array.length){
             end = min(beg + mergeSize, array.length);
             insertSort(array, beg, end);
