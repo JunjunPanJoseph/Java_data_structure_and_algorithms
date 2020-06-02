@@ -6,8 +6,7 @@ Hope it would be helpful for me to practice Java programming. (And for doing lee
 ***
 ~~Single linked list~~  
 ~~Quick sort and merge sort~~  
-Find kth element in sorted array  
-Find kth element in unsorted array - O(n^2)  
+~~Find kth element in unsorted array - O(n^2)~~  
 Hash table (Api)  
 Heap  
 Tree  
